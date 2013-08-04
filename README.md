@@ -1,4 +1,8 @@
 avr-cpp
 =======
 
-C++ extensions for AVR 8-bit family
+Some C++ 11 extensions for GCC-AVR/avr-libc.
+
+
+
+
